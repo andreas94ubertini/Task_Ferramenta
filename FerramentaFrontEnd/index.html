@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <script
+  src="https://code.jquery.com/jquery-3.7.1.min.js"
+  integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+  crossorigin="anonymous"></script>
+    <title>Ferramenta</title>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-3">Ferramenta</h1>
+        <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Descrizione</th>
+                <th>Categoria</th>
+                <th>Prezzo</th>
+                <th>Qt</th>
+                <th>Data Inserimento</th>
+                <th><button class="btn btn-primary" data-toggle="modal" data-target="#modaleInserimento"> Add</button></th>
+            </th>
+        </thead>
+        <tbody id="table-body">
+
+        </tbody>
+
+        </table>
+    </div>
+
+
+
+        <!-- Modal Ins-->
+        <div class="modal fade" id="modaleInserimento" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Inseirmento prodotto</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                </div>
+                <div class="modal-body">
+                
+                    <div class="row">
+                        <div class="col">
+            
+                            <div class="form-group">
+                                <label for="input-nome">Nome</label>
+                                <input type="text" class="form-control" id="input-nome" placeholder="Inserire valore" />
+                            </div>
+                            <div class="form-group">
+                                <label for="input-descrizione">Descrizione</label>
+                                <textarea class="form-control" id="input-descrizione"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="input-prezzo">Prezzo</label>
+                                <input type="number" min="0" class="form-control" id="input-prezzo" placeholder="Inserire valore" />
+                            </div>
+                            <div class="form-group">
+                                <label for="input-cat">Categoria</label>
+                                <input type="text" class="form-control" id="input-cat" placeholder="Inserire categoria" />
+                            </div>
+                            <div class="form-group">
+                                <label for="input-qt">Quantità</label>
+                                <input type="number" min="0" class="form-control" id="input-qt" placeholder="Inserire qt" />
+                            </div>
+            
+                        </div>
+                    </div>
+    
+                </div>
+                <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" onclick="salva()">Salva</button>
+                </div>
+            </div>
+            </div>
+        </div>
+         <!-- Modal Mod-->
+
+         <div class="modal fade" id="modaleModifica" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true"  data-identificativo="">
+            <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modifica prodotto</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                </div>
+                <div class="modal-body">
+                
+                    <div class="row">
+                        <div class="col">
+            
+                            <div class="form-group">
+                                <label for="mod-nome">Nome</label>
+                                <input type="text" class="form-control" id="mod-nome" placeholder="Inserire valore" />
+                            </div>
+                            <div class="form-group">
+                                <label for="mod-descrizione">Descrizione</label>
+                                <textarea class="form-control" id="mod-descrizione"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="mod-prezzo">Prezzo</label>
+                                <input type="number" min="0" class="form-control" id="mod-prezzo" placeholder="Inserire valore" />
+                            </div>
+                            <div class="form-group">
+                                <label for="mod-cat">Categoria</label>
+                                <input type="text" class="form-control" id="mod-cat" placeholder="Inserire categoria" />
+                            </div>
+            
+                        </div>
+                    </div>
+    
+                </div>
+                <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" onclick="modificaProd()">Modifica</button>
+                </div>
+            </div>
+            </div>
+         </div>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+</body>
+</html>

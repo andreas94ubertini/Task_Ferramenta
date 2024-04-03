@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "Ferramenta.Controllers.ProdottoController",
+    "Method": "ElencoProdotti",
+    "RelativePath": "api/prodotti",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ferramenta.Controllers.ProdottoController",
+    "Method": "Inserisciprodotto",
+    "RelativePath": "api/prodotti",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objPro",
+        "Type": "Ferramenta.Models.Prodotto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ferramenta.Controllers.ProdottoController",
+    "Method": "ModificaProdotto",
+    "RelativePath": "api/prodotti",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objPrd",
+        "Type": "Ferramenta.Models.Prodotto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ferramenta.Controllers.ProdottoController",
+    "Method": "DettaglioProdotto",
+    "RelativePath": "api/prodotti/{codice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ferramenta.Controllers.ProdottoController",
+    "Method": "EliminaPerCodiceProd",
+    "RelativePath": "api/prodotti/codice/{varCodice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ferramenta.Controllers.ProdottoController",
+    "Method": "EliminaPerCodiceProd",
+    "RelativePath": "api/prodotti/codice/{varCodice}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
