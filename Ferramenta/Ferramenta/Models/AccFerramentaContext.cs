@@ -19,7 +19,7 @@ public partial class AccFerramentaContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=ACEDEMY2024-04\\SQLEXPRESS;Database=acc_ferramenta;User Id=academy;Password=academy!;MultipleActiveResultSets=true;Encrypt=false;TrustServerCertificate=false");
+        => optionsBuilder.UseSqlServer("Server=LAPTOP-BFLNTHU7\\SQLEXPRESS;Database=acc_ferramenta;User Id=academy;Password=academy!;MultipleActiveResultSets=true;Encrypt=false;TrustServerCertificate=false");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

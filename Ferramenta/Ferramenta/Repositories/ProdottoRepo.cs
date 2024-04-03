@@ -109,7 +109,7 @@ namespace Ferramenta.Repositories
                     t.Categoria = t.Categoria is not null ? t.Categoria : temp.Categoria;
                     t.Descrizione = t.Descrizione is not null ? t.Descrizione : temp.Descrizione;
                     t.Prezzo = t.Prezzo == 0 ? temp.Prezzo : t.Prezzo;
-                    t.Quantita = temp.Quantita;
+                    t.Quantita = t.Quantita != temp.Quantita ? t.Quantita : temp.Quantita;
 
                     ctx.Entry(temp).CurrentValues.SetValues(t);
 

@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\",
+  "WorkspaceRootPath": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\utente\\desktop\\academy\\ferramenta\\ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\ubert\\desktop\\task_ferramenta\\task_ferramenta\\ferramenta\\ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|solutionrelative:ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\utente\\desktop\\academy\\ferramenta\\ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|solutionrelative:ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\utente\\desktop\\academy\\ferramenta\\ferramenta\\repositories\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\ubert\\desktop\\task_ferramenta\\task_ferramenta\\ferramenta\\ferramenta\\repositories\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|solutionrelative:ferramenta\\repositories\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\utente\\desktop\\academy\\ferramenta\\ferramenta\\ferramenta.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\ubert\\desktop\\task_ferramenta\\task_ferramenta\\ferramenta\\ferramenta\\models\\accferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|solutionrelative:ferramenta\\models\\accferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\ubert\\desktop\\task_ferramenta\\task_ferramenta\\ferramenta\\ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|solutionrelative:ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\ubert\\desktop\\task_ferramenta\\task_ferramenta\\ferramenta\\ferramenta\\ferramenta.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|solutionrelative:ferramenta\\ferramenta.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\utente\\desktop\\academy\\ferramenta\\ferramenta\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|c:\\users\\ubert\\desktop\\task_ferramenta\\task_ferramenta\\ferramenta\\ferramenta\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5C73E157-7690-461A-B8C1-20EA61A014FC}|Ferramenta\\Ferramenta.csproj|solutionrelative:ferramenta\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -30,56 +34,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Prodotto.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\Ferramenta\\Models\\Prodotto.cs",
-              "RelativeDocumentMoniker": "Ferramenta\\Models\\Prodotto.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\Ferramenta\\Models\\Prodotto.cs",
-              "RelativeToolTip": "Ferramenta\\Models\\Prodotto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAApAAAA",
+              "DocumentIndex": 2,
+              "Title": "AccFerramentaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Models\\AccFerramentaContext.cs",
+              "RelativeDocumentMoniker": "Ferramenta\\Models\\AccFerramentaContext.cs",
+              "ToolTip": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Models\\AccFerramentaContext.cs",
+              "RelativeToolTip": "Ferramenta\\Models\\AccFerramentaContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBUAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T14:32:42.6Z",
+              "WhenOpened": "2024-04-03T19:20:25.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Ferramenta.http",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\Ferramenta\\Ferramenta.http",
-              "RelativeDocumentMoniker": "Ferramenta\\Ferramenta.http",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\Ferramenta\\Ferramenta.http",
-              "RelativeToolTip": "Ferramenta\\Ferramenta.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-03T13:31:14.529Z",
-              "EditorCaption": ""
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Ferramenta\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Models\\Prodotto.cs",
+              "RelativeToolTip": "Ferramenta\\Models\\Prodotto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:32:42.6Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\Ferramenta\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Ferramenta\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\Ferramenta\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Ferramenta\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-03T13:07:37.398Z",
-              "EditorCaption": ""
+              "Title": "Ferramenta.http",
+              "DocumentMoniker": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Ferramenta.http",
+              "RelativeDocumentMoniker": "Ferramenta\\Ferramenta.http",
+              "ToolTip": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Ferramenta.http",
+              "RelativeToolTip": "Ferramenta\\Ferramenta.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-03T13:31:14.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ferramenta\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ferramenta\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T13:07:37.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProdottoRepo.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\Ferramenta\\Repositories\\ProdottoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Repositories\\ProdottoRepo.cs",
               "RelativeDocumentMoniker": "Ferramenta\\Repositories\\ProdottoRepo.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\Ferramenta\\Repositories\\ProdottoRepo.cs",
+              "ToolTip": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Repositories\\ProdottoRepo.cs",
               "RelativeToolTip": "Ferramenta\\Repositories\\ProdottoRepo.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAIA5wE4AAAATAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwG8AAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T12:35:28.407Z",
               "EditorCaption": ""
@@ -88,11 +102,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProdottoController.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\Ferramenta\\Controllers\\ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Controllers\\ProdottoController.cs",
               "RelativeDocumentMoniker": "Ferramenta\\Controllers\\ProdottoController.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Ferramenta\\Ferramenta\\Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\ubert\\Desktop\\Task_Ferramenta\\Task_Ferramenta\\Ferramenta\\Ferramenta\\Controllers\\ProdottoController.cs",
               "RelativeToolTip": "Ferramenta\\Controllers\\ProdottoController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAIA5wDkAAAAQAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAWwD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T12:34:18.264Z",
               "EditorCaption": ""
